@@ -1,6 +1,6 @@
 # Host-Parasite Dynamics (Modelling project)
 
-This repository was built to guide during the theoretical project (P3) of the Host-Parasite Coevolution Module. This is under construction, so any criticisms are welcome and appreciated. If you follow the steps in that order, you should be able to get Julia installed, started, and make the model run. Then in comes, the scientific part, which is getting a hypothesis, modified the model to test the hypothesis, run the models, get the data, analyse the results, make a report, and present your results. 
+This repository was built to guide you during the theoretical project (P3) of the Host-Parasite Coevolution Module. This is under construction, so any criticisms are welcome and appreciated. If you follow the steps in that order, you should be able to get Julia installed, started, and make the model run. Then in comes, the scientific part, which is getting a hypothesis, modified the model to test the hypothesis, run the models, get the data, analyse the results, make a report, and present your results. 
 
 ## 1. Installing Julia and getting familiar with the language
 
