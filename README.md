@@ -1,6 +1,6 @@
 # Host-Parasite Dynamics (Modelling project)
 
-This repository was built to guide during the theoretical project (P3) of the Host-Parasite Coevolution Module. This is under construction, so any criticisms are welcome and appreciated. If you follow the steps in that order, you should be able to get Julia installed, started, and make the model run. Then in comes, the scientific part, which is getting a hypothesis, modified the model to test the hypothesis, run the models, get the data, analyse the results, make a report, and present your results. 
+This repository was built to guide you during the theoretical project (P3) of the Host-Parasite Coevolution Module. This is under construction, so any criticisms are welcome and appreciated. If you follow the steps in that order, you should be able to get Julia installed, started, and make the model run. Then in comes, the scientific part, which is getting a hypothesis, modified the model to test the hypothesis, run the models, get the data, analyse the results, make a report, and present your results. 
 
 ## 1. Installing Julia and getting familiar with the language
 
@@ -12,14 +12,14 @@ https://juliaacademy.com/p/intro-to-julia
 ## 2. Get to know your packages, the most important are Agents.jl and EvoDynamics.jl
 
 
-For Agents.jl visit (https://juliadynamics.github.io/Agents.jl/stable/)[https://juliadynamics.github.io/Agents.jl/stable/]
+For Agents.jl visit https://juliadynamics.github.io/Agents.jl/stable/
 
-For EvoDynamics.jl (https://kavir1698.github.io/EvoDynamics.jl/dev/)[https://kavir1698.github.io/EvoDynamics.jl/dev/]
+For EvoDynamics.jl https://kavir1698.github.io/EvoDynamics.jl/dev/
 
 
 ## 3. Now, get familiar with our modelling framework. 
 
-So, we will be using the script "model/host_parasite.jl" thanks to (Ali R. Vahdati)[https://vahdati.info/]
+So, we will be using the script "model/host_parasite.jl" thanks to Ali R. Vahdati (https://vahdati.info/).
 
 To make things easier, We will use Pluto notebooks for this kind of course exercises. Pluto notebooks support reactivity (changing one cell automatically updates all its dependent cells) and HTML inputs. You can change the parameters that students would want to change and define plots to observe the data. You can then explore the effect of parameters on the outputs visually without any coding.
 
